@@ -7,7 +7,7 @@
 
 #include "Arduino.h"
 #include "Dimmer.h"
-#include <util/atomic.h>
+//#include <util/atomic.h>
 
 // Timer configuration macros
 #define _TCNT(X) TCNT ## X
